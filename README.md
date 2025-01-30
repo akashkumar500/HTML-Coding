@@ -1,6 +1,6 @@
-# Code_With_Akash_HTML
+# HTML-Coding
 
-Welcome to the `Code_With_Akash_HTML` repository! This project showcases various HTML projects and templates developed by Akash. It is intended to serve as a resource for learning, experimenting, and sharing HTML code.
+Welcome to the `HTML-Coding` repository! This project showcases various HTML projects and templates developed by Akash. It is intended to serve as a resource for learning, experimenting, and sharing HTML code.
 
 ## Introduction
 
